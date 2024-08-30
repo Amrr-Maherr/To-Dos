@@ -2,6 +2,8 @@
 
 A simple and interactive task management application that allows users to add, delete, reorder, and mark tasks as done. This project uses modern web technologies to provide a responsive and user-friendly interface.
 
+![Application Screenshot](https://github.com/Amrr-Maherr/To-Dos/blob/master/readeMe/Screenshot_30-8-2024_4263_127.0.0.1.jpeg?raw=true)
+
 ## Features
 
 - **📝 Add Tasks**: Easily add new tasks using an input field.
@@ -39,9 +41,7 @@ Acknowledgments
 Bootstrap 📚
 Font Awesome 📦
 Sortable.js 🔄
-
-### Key Points:
-
-- **Consistent Formatting**: Ensured that all code snippets and text are consistently formatted.
-- **Added Steps for Usage**: Included steps for opening the project in a web browser.
-- **Clear Sections**: Organized the sections for easy navigation and readability.
+Key Points:
+Consistent Formatting: Ensured that all code snippets and text are consistently formatted.
+Added Steps for Usage: Included steps for opening the project in a web browser.
+Clear Sections: Organized the sections for easy navigation and readability.
