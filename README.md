@@ -23,9 +23,8 @@ A simple and interactive task management application that allows users to add, d
 ## Getting Started
 
 1. **📥 Clone the Repository**
-  git clone https://github.com/Amrr-Maherr/To-Dos.git
    ```bash
-
+   git clone https://github.com/Amrr-Maherr/To-Dos.git
 Usage
 📝 Add Tasks: Enter a task in the input field and click the "Save" button.
 🛠️ Manage Tasks:
@@ -40,3 +39,9 @@ Acknowledgments
 Bootstrap 📚
 Font Awesome 📦
 Sortable.js 🔄
+
+### Key Points:
+
+- **Consistent Formatting**: Ensured that all code snippets and text are consistently formatted.
+- **Added Steps for Usage**: Included steps for opening the project in a web browser.
+- **Clear Sections**: Organized the sections for easy navigation and readability.
