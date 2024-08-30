@@ -23,10 +23,9 @@ A simple and interactive task management application that allows users to add, d
 ## Getting Started
 
 1. **📥 Clone the Repository**
-
-   ```bash
   git clone https://github.com/Amrr-Maherr/To-Dos.git
-  
+   ```bash
+
 Usage
 📝 Add Tasks: Enter a task in the input field and click the "Save" button.
 🛠️ Manage Tasks:
