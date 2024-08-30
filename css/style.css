@@ -1,12 +1,24 @@
-.container-fluid {
-    height: 100vh;
+.list {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
 }
-i {
+
+.cursor {
     cursor: pointer;
 }
-/* Example: Reset Bootstrap's margin/padding on lists if needed */
-ul.list {
-    margin: 0;
-    padding: 0;
-    width: 100%;
+
+.grab {
+    cursor: grab;
+}
+
+.line-through {
+    text-decoration: line-through;
+}
+
+.task-text {
+    display: inline-block;
+}
+.done {
+    background-color: rgba(0, 128, 0, 0.332);
 }
